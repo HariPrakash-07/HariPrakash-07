@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @HariPrakash-07<br>👀 I’m interested in software Development | Web3 | Blockchain | Web security<br>🌱 I’m currently learning Backend Technologies<br>💞️ I’m looking to collaborate on building real time software for businesses/organizations.<br>📫 How to reach me Mail : prakashhari2003@outlook.com<br>😄 Pronouns: He/Him/His<br>⚡ Fun fact: Self-taught Freelance Web Developer
+Hi, I’m @HariPrakash-07<br>👀 I’m interested in software ENgineering | AI |<br>🌱 I’m currently learning Backend Technologies<br>💞️ I’m looking to collaborate on building real time software for businesses/organizations.<br>📫 How to reach me Mail : prakashhari2003@outlook.com<br>😄 Pronouns: He/Him/His<br>⚡ Fun fact: CSE Grad
 
 
 ## 🌐 Socials:
